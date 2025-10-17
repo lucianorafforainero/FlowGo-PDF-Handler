@@ -205,3 +205,10 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Ignorar archivos generados por pruebas
+/examples/unido.pdf
+/examples/texto.txt
+/examples/*.pdf
+/examples/*.txt
+
